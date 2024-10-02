@@ -1,6 +1,6 @@
 streamlit
-torch
 transformers
+torch
 requests
 beautifulsoup4
 PyPDF2
